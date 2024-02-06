@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Group16 {
+public class MatrixCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         do {
